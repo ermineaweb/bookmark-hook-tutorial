@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bookmark-hook-tutorial/static/css/main.e8eddc58.chunk.css",
-    "main.js": "/bookmark-hook-tutorial/static/js/main.8a46c209.chunk.js",
-    "main.js.map": "/bookmark-hook-tutorial/static/js/main.8a46c209.chunk.js.map",
+    "main.css": "/bookmark-hook-tutorial/static/css/main.a04cb4a4.chunk.css",
+    "main.js": "/bookmark-hook-tutorial/static/js/main.b1b390a6.chunk.js",
+    "main.js.map": "/bookmark-hook-tutorial/static/js/main.b1b390a6.chunk.js.map",
     "runtime-main.js": "/bookmark-hook-tutorial/static/js/runtime-main.14e40bc9.js",
     "runtime-main.js.map": "/bookmark-hook-tutorial/static/js/runtime-main.14e40bc9.js.map",
     "static/js/2.01c2cbf9.chunk.js": "/bookmark-hook-tutorial/static/js/2.01c2cbf9.chunk.js",
     "static/js/2.01c2cbf9.chunk.js.map": "/bookmark-hook-tutorial/static/js/2.01c2cbf9.chunk.js.map",
     "index.html": "/bookmark-hook-tutorial/index.html",
-    "static/css/main.e8eddc58.chunk.css.map": "/bookmark-hook-tutorial/static/css/main.e8eddc58.chunk.css.map",
+    "static/css/main.a04cb4a4.chunk.css.map": "/bookmark-hook-tutorial/static/css/main.a04cb4a4.chunk.css.map",
     "static/js/2.01c2cbf9.chunk.js.LICENSE.txt": "/bookmark-hook-tutorial/static/js/2.01c2cbf9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.14e40bc9.js",
     "static/js/2.01c2cbf9.chunk.js",
-    "static/css/main.e8eddc58.chunk.css",
-    "static/js/main.8a46c209.chunk.js"
+    "static/css/main.a04cb4a4.chunk.css",
+    "static/js/main.b1b390a6.chunk.js"
   ]
 }
