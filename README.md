@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Bookmark Hook Tutorial
 
 [Demo](https://ermineaweb.github.io/bookmark-hook-tutorial/)
 
