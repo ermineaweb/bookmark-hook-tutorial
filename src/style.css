@@ -1,0 +1,30 @@
+.root {
+  border: 1px solid #bdbdbd;
+  border-radius: 10px;
+  margin: 0 auto;
+  width: 400px;
+  padding: 20px;
+}
+
+.users {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px;
+  border: 1px solid #bdbdbd;
+  width: 120px;
+  height: 80px;
+  text-align: center;
+  padding: 10px;
+}
+
+.bookmarked {
+  outline: 3px solid #81b688;
+}
